@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitTest</string>
+    <string name="request">요청</string>
+    <string name="textView">텍스트뷰\n</string>
+</resources>
